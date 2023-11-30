@@ -12,7 +12,7 @@ The primary focus of this project is to showcase the development journey outline
 
 - [Stephen Grider](https://www.udemy.com/course/next-js-the-complete-developers-guide/) - For the amazing Next JS course.
 - [Vercel](https://vercel.com/) - The go-to platform for hosting Next.js applications.
-- [How to Build a Fullstack App with Next.js, Prisma, and Vercel Postgres](https://vercel.com/guides/nextjs-prisma-postgres) - A helpful guide for deploying Next.js apps.
+- [How to Build a Fullstack App with Next.js, Prisma, and Vercel Postgres](https://vercel.com/guides/nextjs-prisma-postgres) - A helpful guide for deploying Next.js apps on Vercel with Prisma.
 
 ## Issues and Contributions
 
