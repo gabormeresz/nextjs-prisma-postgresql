@@ -1,6 +1,7 @@
 # Next.js App with Prisma
 
-Welcome to the Next.js App with Prisma project! 🚀 [Open app on Vercel](https://nextjs-prisma-postgresql-two.vercel.app/)
+Welcome to the Next.js App with Prisma project! 🚀
+[Open app on Vercel](https://nextjs-prisma-postgresql-two.vercel.app/)
 
 This project is a result of diving into the fantastic world of Next.js through Stephen Grider's comprehensive course on Udemy, titled [Next JS: The Complete Developer's Guide](https://www.udemy.com/course/next-js-the-complete-developers-guide/). This course provided invaluable insights and hands-on experience in building powerful web applications using Next.js.
 
